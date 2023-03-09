@@ -1,0 +1,7 @@
+In this project I will use the following naming conventions:
+
+a.b.c
+
+a - This refers to the major development sections. These include: Main Structural and Ruleset setup , Implementation of AI and GUI
+b - This refers to a minor development stage i.e. the reconfiguration of an object or the addition of a new method/ class
+c - This refers to a bug fix or tweak which will aid the program's performance or readability

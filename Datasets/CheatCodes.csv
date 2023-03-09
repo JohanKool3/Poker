@@ -1,0 +1,6 @@
+colour,value,suit,points,faceup,shorthand,sortCode
+Red,Ace,Hearts,13,TRUE,AH,1
+Red,Ten,Hearts,9,TRUE,10H,37
+Red,Jack,Hearts,10,TRUE,JH,41
+Red,Queen,Hearts,11,TRUE,QH,45
+Red,King,Hearts,12,TRUE,KH,49
