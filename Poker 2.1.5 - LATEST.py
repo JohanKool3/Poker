@@ -1,6 +1,6 @@
 ## Poker l v2.1.5 - NOTE: this is in early version and there are still bugs in the latest additions
 ## Naming Convention: Major version.Minor version.Patch Number
-## Author: Johan Kool  No. 16761
+## Author: Johan Kool
 
 import csv,random,math ; from random import shuffle
 
